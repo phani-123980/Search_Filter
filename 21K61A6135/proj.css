@@ -1,0 +1,35 @@
+#myInput {
+    background-image: url('C:/Users/asus');
+     
+    background-position: 10px 12px; 
+    background-repeat: no-repeat; 
+    width: 100%;
+    font-size: 16px; 
+    padding: 12px 10px 12px 20px; 
+    border: 1px solid=aqua; 
+    margin-bottom: 10px; 
+  }
+  
+  #myTable {
+    border-collapse: collapse; 
+    width: 100%; 
+    border: 1px solid=lightskyblue; 
+    font-size: 16px; 
+  }
+  
+  #myTable th, #myTable td {
+    text-align: left; 
+    padding: 10px; 
+    border-bottom: 1px solid=lightgreen;
+  }
+  
+  #myTable tr.header, #myTable tr:hover {
+    background-color:lightslategray;
+  }
+  h1{
+    text-align: center;
+    text-decoration: dotted;
+    text-decoration-color: orangered;
+    background-color: aquamarine;
+  }
+  
